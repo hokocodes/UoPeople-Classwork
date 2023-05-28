@@ -1,5 +1,0 @@
-
-def myerror():
-    myerror()
-
-myerror()

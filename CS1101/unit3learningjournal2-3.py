@@ -1,0 +1,5 @@
+
+def myerror():
+    myerror()
+
+myerror()
